@@ -1,0 +1,5 @@
+C:\Users\Dale.Dale-PC\documents\visual studio 2012\Projects\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.csprojResolveAssemblyReference.cache
+C:\Users\Dale.Dale-PC\documents\visual studio 2012\Projects\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.dll
+C:\Users\Dale.Dale-PC\documents\visual studio 2012\Projects\PriorityQueue\PriorityQueue\bin\Debug\PriorityQueue.pdb
+C:\Users\Dale.Dale-PC\documents\visual studio 2012\Projects\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.dll
+C:\Users\Dale.Dale-PC\documents\visual studio 2012\Projects\PriorityQueue\PriorityQueue\obj\Debug\PriorityQueue.pdb
